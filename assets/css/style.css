@@ -1,0 +1,16 @@
+button {
+	margin:5px;
+}
+
+#instrumentButtons {
+	background-color: green;
+}
+
+#instruments {
+	background-color: lightblue;
+}
+
+.gif {
+	float: left;
+	margin:5px;
+}
